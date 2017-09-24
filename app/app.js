@@ -16,5 +16,9 @@ angular.module('myRecipesApp',['ui.router']
         .state('admin', {
             url:'/admin',
             templateUrl:'app/admin/admin-template.html'
-        });
+        }).
+            state('admin.cuisines',{
+                url: '/cuisines',
+                templateUrl:'app/admin/cuisines-template.html'
+            });
 });
