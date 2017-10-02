@@ -1,0 +1,19 @@
+{
+  "name": "createRecipes",
+  "version": "0.0.0",
+  "description": "My quest to learn angularjs and node.js from scratch.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/havefuninlearning/createRecipes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/havefuninlearning/createRecipes/issues"
+  },
+  "homepage": "https://github.com/havefuninlearning/createRecipes"
+}
